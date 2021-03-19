@@ -1,8 +1,12 @@
 # spring_boot_app
 spring boot using stategy pattern
 
+use http://localhost:8080/swagger-ui.html to see API document
+
 use url below to access the site on a browser: 
+
 1.http://localhost:8080/api/getinterest
+
 2.http://localhost:8080/api/getinterest/<amount>
   ex: http://localhost:8080/api/getinterest/100
 
